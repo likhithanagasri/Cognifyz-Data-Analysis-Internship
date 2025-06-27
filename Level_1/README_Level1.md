@@ -1,59 +1,70 @@
-# Cognifyz Technologies Internship – Data Analysis
-**Level 1 Tasks Done by [Your Full Name]**
+# 📊 Cognifyz Technologies – Data Analysis Internship  
+## 🟠 Level 1 Tasks Completed by Koppati Likhitha Naga Sri
 
 ---
 
-## ???? Task 1: Top Cuisines
-- **Objective:** Find the top 3 most frequent cuisines and the distribution percentage of these top cuisines.
-- **Tools Used:** Python, Pandas, Matplotlib
-- **Key Results:**
-  - Top cuisines: North Indian, Chinese, Fast Food (example)
-  - Estimated their frequency and percentage of occurrence across all restaurants.
-- Visualized results through a bar chart and pie chart.
+## 🍽️ Task 1: Top Cuisines
+
+### 🎯 Objective:
+- Identify the top three most common cuisines in the dataset.
+- Calculate the percentage of restaurants serving each of them.
+
+### ✅ Summary:
+All computations and visualizations were performed using Python libraries. The task was completed with appropriate analysis in the notebook `Task1_1.ipynb`.
 
 ---
 
-## ???? Task 2: City Analysis
-- **Objective:** Analyze city-wise distribution and ratings.
-- **Insights:**
-  - Determined the city with the **most restaurants**.
-  - Computed **average rating per city**.
-  - Determined the city with the **highest average rating**.
-- **Tools Used:** Pandas, GroupBy, Visualization (Matplotlib)
+## 🏙️ Task 2: City Analysis
+
+### 🎯 Objective:
+- Get the city with the most restaurants.
+- Compute average rating per restaurant for each city.
+- Find the city with the highest average rating.
+
+### ✅ Summary:
+This task was performed with the help of grouping, aggregation, and sorting operations in Python. Results are presented in `Task2_1.ipynb`.
 
 ---
 
-## ???? Task 3: Price Range Distribution
-- **Objective:** Visualize and analyze restaurant price ranges.
-- **Work Done:**
-  - Produced a histogram / bar chart illustrating distribution by price groups (1 to 4).
-  - Computed **percentage of restaurants** per price group.
-- **Tools Used:** Pandas, Matplotlib, Seaborn (optional)
+## 💸 Task 3: Price Range Distribution
+
+### 🎯 Objective:
+- Visualize price range distribution of restaurants.
+- Compute the percentage of each category of restaurants in every price range.
+
+### ✅ Summary:
+The task was done with bar plots and percentage calculations in `Task3_1.ipynb`.
 
 ---
 
-## ???? Task 4: Online Delivery Analysis
-- **Objective:** Examine the effect of online delivery on restaurant ratings.
-- **Findings:**
-  - Computed percentage of restaurants **with online delivery**.
-- Compared **average ratings** of restaurants with and without online delivery.
-  - Discovered [your insight here, e.g., "restaurants with delivery have higher/lower ratings"].
-- **Tools Used:** Pandas, Filtering, Aggregation
+## 📦 Task 4: Online Delivery
+
+### 🎯 Objective:
+- Find the percentage of online delivery restaurants.
+- Compare the average ratings of restaurants with and without online delivery.
+
+### ✅ Summary:
+Analysis was conducted through filtering and group-based aggregation in `Task4_1.ipynb`.
 
 ---
 
-## ✅ Tools & Libraries Used:
-- Jupyter Notebook
-- Python
-- Pandas
-- Matplotlib
-- Seaborn (if used)
+## 🛠️ Tools & Libraries Used:
+
+| 🧰 Library        | 🔍 Purpose                        |
+|------------------|----------------------------------|
+| 🐼 **Pandas**     | Data handling and analysis       |
+| 📊 **Matplotlib** | Visualization                    |
+| 📈 **Seaborn**    | Optional statistical plots       |
+| 📒 **Jupyter**    | Code execution & documentation   |
 
 ---
 
-## ???? Output Files:
-Each task is stored in a different `.ipynb` notebook in the `Level_1/` directory.
+### ✅ Completion Status:
+All Level 1 tasks have been performed, well-documented, and stored in the `Level_1/` directory as separate Jupyter Notebooks.
 
 ---
 
-> ✨ *This is the successful accomplishment of Level 1 tasks for the Data Analysis Internship at Cognifyz Technologies.*
+### 🙋‍♀️ Submitted by:
+**Koppati Likhitha Naga Sri**  
+**🎓 Role:** Data Analysis Intern  
+**🏢 Company:** Cognifyz Technologies
